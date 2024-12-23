@@ -1,2 +1,14 @@
-# Blood_management_system
- The Blood Management System (BMS) is a sophisticated software application designed and developed using the powerful C# programming language. This cutting-edge solution is meticulously crafted to streamline and optimize the intricate process of managing blood donations, transfusions, and related data within healthcare facilities, blood banks, and organizations dedicated to ensuring a safe and efficient blood supply chain.
+<p align="center">
+  <img src="https://via.placeholder.com/800x200?text=Your+Project+Name" alt="Project Banner">
+</p>
+
+<h1 align="center">Welcome to <strong>Your Project Name</strong> 👋</h1>
+<p align="center">
+  <em>Your tagline or mission statement goes here.</em>
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
